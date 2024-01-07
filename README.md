@@ -5,7 +5,7 @@ My name is Jidaan Dahiya
 Unleashing the Power of Code - Exploring Software Development and Front-End Web Development with Passion and Precision
 ----------------------------------------------------------------------------------------------------------------------
 
-I'm a motivated second-year computer science student with a strong passion for software development and front-end web development. Here, you'll find a collection of my projects and contributions that highlight my technical skills and problem-solving abilities. <br><br>
+I'm a motivated third-year computer science student with a strong passion for software development and front-end web development. Here, you'll find a collection of my projects and contributions that highlight my technical skills and problem-solving abilities. <br><br>
 With proficiency in Java, Python, and C and now expanding it with HTML, CSS and JavaScript as well as Angular, I enjoy tackling complex challenges and continuously learning new concepts in the ever-evolving field of computer science. Whether it's developing web-based applications or designing user-friendly interfaces, I strive to create high-quality solutions that deliver exceptional user experiences. <br><br>
 Feel free to explore my repositories and projects. I'm always open to collaboration and eager to connect with fellow developers. Let's build innovative solutions together and make a positive impact in the world of technology! Looking forward to connecting and learning from the community. <br><br>Happy coding!
 
