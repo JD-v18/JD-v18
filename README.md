@@ -10,7 +10,7 @@ With proficiency in Java, Python, and C and now expanding it with HTML, CSS and 
 Feel free to explore my repositories and projects. I'm always open to collaboration and eager to connect with fellow developers. Let's build innovative solutions together and make a positive impact in the world of technology! Looking forward to connecting and learning from the community. <br><br>Happy coding!
 
 <!-- *   🖥️  See my portfolio at [this link](http://nothing.com) -->
-*   🌍  I'm based in Milton, Ontario
+*   🌍  I'm based in GTA, Canada.
 *   🧠  I'm learning HTML, CSS, JAVASCRIPT
 *   🤝  I'm open to collaborating on Web projects
 *   ⚡  HUGE Motorhead, love working on Project Cars🚗 , Bikes🏍 and Go Karts 🏎### Skills 
